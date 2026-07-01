@@ -1,14 +1,16 @@
 # Hi, I'm Prashanth 👋
 
-Senior .NET Developer with 12+ years experience.
+Senior .NET Developer with 11+ years experience.
 
 ## Tech Stack
 
 - C#
 - ASP.NET MVC
-- ASP.NET Core 8
+- ASP.NET Core 8/9
 - SQL Server
 - ADO.NET
+- Entity Framework
+- REST APIs
 - Azure
 - GitHub Actions
 - Docker
